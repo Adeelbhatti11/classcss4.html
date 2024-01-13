@@ -1,0 +1,20 @@
+.word{
+    width: 400px;
+    border: 3px solid red;
+    font: italic small-caps bold/15px arial 20px; 
+    text-align: center;
+    text-transform: uppercase;
+    text-indent: 5%;
+    text-align-last: justify;
+    word-spacing: 5px;
+   letter-spacing: 2px;
+   text-decoration-line: line-through;
+   text-decoration-style: wavy;
+   text-decoration-color: red;
+   word-wrap: break-word;
+   text-overflow: ellipsis;
+   writing-mode: vertical-lr;
+   overflow: auto;
+   white-space: nowrap , pre, pre-wrap, pre-line ;
+
+}
